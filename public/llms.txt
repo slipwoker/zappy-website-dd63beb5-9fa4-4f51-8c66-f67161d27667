@@ -1,0 +1,61 @@
+# קואלה צלמים — Generative Engine Optimization Map
+
+> A צילום business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-dd63beb5.zappy5.app
+קואלה צלמים - צלם חתונות מומלץ בישראל המתמחה בצילום חתונות מרגש ומקצועי. צלמים לחתונה עם ניסיון עשיר.
+
+### השירותים שלנו
+https://-dd63beb5.zappy5.app/services
+גלו את מגוון חבילות צילום החתונות של קואלה צלמים. צילום חתונות מחירים שקופים, שירות מקצועי וחבילות מותאמות אישית.
+
+### הגלריה
+https://-dd63beb5.zappy5.app/portfolio
+צפו בגלריה המרשימה של קואלה צלמים - צלם חתונות מומלץ בישראל. תמונות חתונה מקצועיות ומרגשות מאירועים שצילמנו.
+
+### אודות
+https://-dd63beb5.zappy5.app/about
+הכירו את קואלה צלמים - צלמים לחתונה עם תשוקה לצילום ומחויבות למצוינות. הסיפור שלנו, הערכים שלנו, והגישה הייחודית שלנו.
+
+### צור קשר
+https://-dd63beb5.zappy5.app/contact
+צרו קשר עם קואלה צלמים לשיחת ייעוץ חינם. צלם חתונות מומלץ בישראל זמין לענות על כל שאלה ולתכנן את צילום החתונה שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-dd63beb5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-dd63beb5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-dd63beb5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קואלה צלמים
+קואלה צלמים is a business in the צילום industry.
+
+## Target Audience
+זוגות מתחתנים
+
+## Industry
+צילום
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-dd63beb5.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-dd63beb5.zappy5.app/robots.txt
